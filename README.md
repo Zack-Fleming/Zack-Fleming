@@ -7,15 +7,15 @@
      since High School. I have been programming for about eight years. 
 
 - My current skills:
- - Web Development - HTML, CSS, JavaScript, and PHP
- - DabaBase Development - MySQL and SQLite
- - Netowrking - Vlans, subnetting, inner-vlan routing, RIP, OSPF, EGIRP, and the basics of BGP
- - Scripting - Linux Shell scripting and scratching the surface of PowerShell
- - General Purpose Languages:
-  - Java, I have used the following libraries in my own projects:
-   - Swing and AWT - the GUI framework, that comes with Java
-   - JavaFX - GUI framework, that contains more balls and swisles than Swing
-   - JDBC (Java DataBase Connectivity Classes) - a Java API for database controll, using Java
+  - Web Development - HTML, CSS, JavaScript, and PHP
+  - DabaBase Development - MySQL and SQLite
+  - Netowrking - Vlans, subnetting, inner-vlan routing, RIP, OSPF, EGIRP, and the basics of BGP
+  - Scripting - Linux Shell scripting and scratching the surface of PowerShell
+  - General Purpose Languages:
+    - Java, I have used the following libraries in my own projects:
+     - Swing and AWT - the GUI framework, that comes with Java
+      - JavaFX - GUI framework, that contains more balls and swisles than Swing
+      - JDBC (Java DataBase Connectivity Classes) - a Java API for database controll, using Java
    - MyBatis - Additional SQL API, for more advance features than JDBC (ex: running full SQL cripts, rather than running SQL scripts line by line)
    - Barbecue - Barcode creation and reading library
    - Forge - Java API for modding the game MineCraft
