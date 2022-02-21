@@ -12,7 +12,7 @@
   - Netowrking - Vlans, subnetting, inner-vlan routing, RIP, OSPF, EGIRP, and the basics of BGP
   - Scripting - Linux Shell scripting and scratching the surface of PowerShell
   - General Purpose Languages:
-    - Java, I have used the following libraries in my own projects:
+    - Java libraries or technologies I have used:
       - Swing and AWT - the GUI framework, that comes with Java
       - JavaFX - GUI framework, that contains more balls and swisles than Swing
       - JDBC (Java DataBase Connectivity Classes) - a Java API for database controll, using Java
@@ -23,8 +23,11 @@
       - USB4Java - USB functionallity for Java (least worked with)
       - LibGDX - Java game library (still working on learning this library)
       - LWJGL (LightWeight Java Game Library) - another Java game library (still learning this)
-    - Python, I have used the following libraries in my own projects:
-      - 
+      - Gradle & Maven - Project dependency managementand version control
+    - Python libraries or technologies I have used:
+      - TkInter - GUI framework
+      - Scapy - network programming library
+      - Pygame - game development API
     - Ruby
     - C++ 
      
