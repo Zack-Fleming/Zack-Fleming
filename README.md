@@ -28,8 +28,11 @@
       - TkInter - GUI framework
       - Scapy - network programming library
       - Pygame - game development API
-    - Ruby
-    - C++ 
+    - Ruby - mainly with basic CLI-based programs
+    - C++ - Unity Game Development and Windows Native Executable programs
+    - Kotlin (getting my feet wet, haven't used in a short while)
+    - 6502 & x86 assembly (still learning the best programming practices
+    - CBM Basic - Commodore Basic
      
 - 📫 How to reach me ...
 
