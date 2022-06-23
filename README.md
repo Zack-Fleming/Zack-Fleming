@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning a Bachelor's Degree in Software Development at the Pensylvania College of Technology. 
      I am currently finishing my second year in my degree, however, I have had this passion for software development
-     since High School. I have been programming for about eight years. 
+     since High School. I have been programming for about eight years. Currently, I am working on a couple of different 
+     projects that challenges my knowledge, motivates me to learn new topics, and drives me out of my comfort zone,
+     when it comes to my programming practices and methods.
 
 - My current skills:
   - Web Development - HTML, CSS, JavaScript, and PHP
