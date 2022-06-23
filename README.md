@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zack-Fleming
 
-- 👀 I’m interested in Software Development, Web Development, and Game Development, Networking, and Linux.
+- 👀 I’m interested in Software Development, Web Development, Game Development, Networking, and Linux.
 
 - 🌱 I’m currently learning a Bachelor's Degree in Software Development at the Pensylvania College of Technology. 
      I am currently finishing my second year in my degree, however, I have had this passion for software development
@@ -23,7 +23,7 @@
       - USB4Java - USB functionallity for Java (least worked with)
       - LibGDX - Java game library (still working on learning this library)
       - LWJGL (LightWeight Java Game Library) - another Java game library (still learning this)
-      - Gradle & Maven - Project dependency managementand version control
+      - Gradle & Maven - Project dependency management and version control
     - Python libraries or technologies I have used:
       - TkInter - GUI framework
       - Scapy - network programming library
@@ -31,10 +31,12 @@
     - Ruby - mainly with basic CLI-based programs
     - C++ - Unity Game Development and Windows Native Executable programs
     - Kotlin (getting my feet wet, haven't used in a short while)
-    - 6502 & x86 assembly (still learning the best programming practices
-    - CBM Basic - Commodore Basic
+    - 6502 & x86 assembly (still learning the best programming practices)
+    - CBM Basic - Commodore Basic (decent knowledge)
      
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  - e-mail: dev.flemingzackery@gmail.com
+  - twitter: https://twitter.com/12LightFlash12
 
 <!---
 Zack-Fleming/Zack-Fleming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
