@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Development, Web Development, Game Development, Networking, and Linux.
 
 - 🌱 I’m currently learning a Bachelor's Degree in Software Development at the Pensylvania College of Technology. 
-     I am currently finishing my second year in my degree, however, I have had this passion for software development
+     I am currently finishing my third year in my degree, however, I have had this passion for software development
      since High School. I have been programming for about eight years. Currently, I am working on a couple of different 
      projects that challenges my knowledge, motivates me to learn new topics, and drives me out of my comfort zone,
      when it comes to my programming practices and methods.
@@ -37,8 +37,9 @@
     - CBM Basic - Commodore Basic (decent knowledge)
      
 - 📫 How to reach me:
-  - e-mail: dev.flemingzackery@gmail.com
-  - twitter: https://twitter.com/12LightFlash12
+  - e-mail  : dev.flemingzackery@gmail.com
+  - twitter : https://twitter.com/12LightFlash12
+  - linkedin: https://www.linkedin.com/in/zack-fleming-14a4571b5/
 
 <!---
 Zack-Fleming/Zack-Fleming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
